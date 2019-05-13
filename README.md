@@ -9,4 +9,4 @@ Description:
 
 Implemention of Longitudinal and Lateral control to autonomously navigate a car through a set of given way points.
 
-![alt text](https://raw.githubusercontent.com/zubair-irshad/SelfDrivingCar_AutonomousNavigation/Course1FinalProject/racetrack.png)
+![ScreenShot](https://raw.github.com/zubair-irshad/SelfDrivingCar_AutonomousNavigation/master/racetrack.png)
