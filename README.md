@@ -9,5 +9,4 @@ Description:
 
 Implemention of Longitudinal and Lateral control to autonomously navigate a car through a set of given way points.
 
-![alt text](https://raw.githubusercontent.com/zubair-irshadSelfDrivingCar_AutonomousNavigation/master/PythonClient/racetrack.png)
-
+![alt text](https://raw.githubusercontent.com/zubair-irshad/SelfDrivingCar_AutonomousNavigation/master/Course1FinalProject/racetrack.png)
