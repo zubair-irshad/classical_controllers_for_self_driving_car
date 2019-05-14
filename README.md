@@ -11,7 +11,7 @@ Implemention of Longitudinal and Lateral control to autonomously navigate a car 
 
 RACETRACK :
 ---------
-![racetrack](https://user-images.githubusercontent.com/32943733/57667735-ab5b9a80-75d2-11e9-9e7a-6d4c24a86419.png)
+![RACETRACK_1](https://user-images.githubusercontent.com/32943733/57668369-160dd580-75d5-11e9-8465-908dadc83057.png)
 
 
 SOLUTION:
