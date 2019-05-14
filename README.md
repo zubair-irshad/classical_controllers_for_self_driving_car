@@ -9,7 +9,7 @@ DESCRIPTION:
 
 Implemention of Longitudinal and Lateral control to autonomously navigate a car through a set of given way points using Stanley Control for Lateral Control and PID control for Longitudinal Control.
 
-![racetrack](https://user-images.githubusercontent.com/32943733/57667488-a9dda280-75d1-11e9-9705-129eabcbcc50.png)
+![racetrack](https://user-images.githubusercontent.com/32943733/57667735-ab5b9a80-75d2-11e9-9e7a-6d4c24a86419.png)
 
 
 SOLUTION:
