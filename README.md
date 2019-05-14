@@ -41,13 +41,15 @@ Once you have installed the dependencies, clone this repository in the Python Cl
 
 Open Command Prompt / Terminal and go to the Carla Simulator and run the simulator using the following Commands:
 
-For Ubuntu: ./CarlaUE4.sh /Game/Maps/RaceTrack -windowed -carla-server -benchmark -fps=30
-For Windows: CarlaUE4.exe /Game/Maps/RaceTrack -windowed -carla-server -benchmark -fps=30
+**For Ubuntu:** ./CarlaUE4.sh /Game/Maps/RaceTrack -windowed -carla-server -benchmark -fps=30
+
+**For Windows:** CarlaUE4.exe /Game/Maps/RaceTrack -windowed -carla-server -benchmark -fps=30
 
 Open another Command Prompt / Terminal and go to the Course1Project Folder and enter the following command
 
-For Ubuntu: python3 module_7.py
-For Windows: python module_7.py
+**For Ubuntu:** python3 module_7.py
+
+**For Windows:** python module_7.py
 
 Implement your own controller:
 --------------------------
