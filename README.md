@@ -1,4 +1,4 @@
-# SelfDrivingVehicle_AutonomousNavigation
+# Self_Driving_Vehicle_Control
 
 An Implementation of Autonomous Navigation for a Self Driving Car on CARLA Simulator (Built on Unreal Engine) for the Course Introduction to Self-Driving Cars (Coursera)
 
