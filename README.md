@@ -27,12 +27,12 @@ SOLUTION:
 Dependencies:
 =============
 
-1) CARLA Simulator Installation
+- CARLA Simulator Installation
 
-Download and install Carla Simulator from the following link:
-https://www.coursera.org/learn/intro-self-driving-cars/supplement/pGdcu/carla-installation-guide
+  Download and install Carla Simulator from the following link:
+  https://www.coursera.org/learn/intro-self-driving-cars/supplement/pGdcu/carla-installation-guide
 
-2) Python 3.5 or 3.6
+- Python 3.5 or 3.6
 
 Running Autonomous Control:
 ==========================
